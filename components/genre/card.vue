@@ -1,6 +1,7 @@
 <template>
   <div
-    class="relative w-[233px] h-[308px] border cursor-pointer overflow-hidden bg-no-repeat bg-right bg-contain transition-transform duration-300 hover:-translate-y-1"
+    class="relative w-[233px] h-[308px] border cursor-pointer overflow-hidden bg-no-repeat bg-right bg-contain transition-transform duration-300 hover:-translate-y-1 
+           scale-90 sm:scale-100 md:scale-100 lg:scale-100 origin-top-left"
     style="background-image: url('/images/back-card-explore.svg')"
   >
     <!-- Logo di kiri atas -->
@@ -19,6 +20,7 @@
     </div>
   </div>
 </template>
+
 
 <script setup>
 defineProps({
