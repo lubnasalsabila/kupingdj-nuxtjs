@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Glancyr';
+  src: url('@/assets/fonts/Glancyr.ttf') format('truetype');
+}
+
+.text-glancyr {
+  font-family: 'Glancyr', sans-serif;
+}
+
+.text-geist {
+  font-family: "Geist", sans-serif;
+}
