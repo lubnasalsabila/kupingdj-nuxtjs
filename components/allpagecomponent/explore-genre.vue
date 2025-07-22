@@ -3,7 +3,7 @@
         <!-- Title -->
          <div class="flex">
             <div class="basis-1/3">
-                <h1 class="text-4xl font-bold text-black mb-8">EXPLORE OUR<br>ALBUM GENRE</h1>
+                <h1 class="text-4xl text-glancyr uppercase font-normal text-black mb-8">EXPLORE OUR<br>ALBUM GENRE</h1>
 
                 <!-- Navigation Arrows -->
                 <div class="flex gap-2">

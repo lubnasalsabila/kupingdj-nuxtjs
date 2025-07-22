@@ -3,7 +3,7 @@
     <!-- Header Section -->
     <div class="flex flex-row justify-between items-start mb-12">
       <div class="flex-1 basis-2/3">
-        <h1 class="text-4xl font-bold text-black leading-tight">
+        <h1 class="text-4xl text-glancyr uppercase font-normal text-black leading-tight">
           WHAT PEOPLE SAID<br />
           ABOUT KUPING DJ
         </h1>

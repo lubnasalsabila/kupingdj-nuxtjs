@@ -3,15 +3,47 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Font Glancyr: import semua varian */
 @font-face {
   font-family: 'Glancyr';
-  src: url('@/assets/fonts/Glancyr.ttf') format('truetype');
+  src: url('../fonts/Glancyr-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
 }
 
+@font-face {
+  font-family: 'Glancyr';
+  src: url('../fonts/Glancyr-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Glancyr';
+  src: url('../fonts/Glancyr-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Glancyr';
+  src: url('../fonts/Glancyr-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Glancyr';
+  src: url('../fonts/Glancyr-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Class custom */
 .text-glancyr {
   font-family: 'Glancyr', sans-serif;
 }
 
 .text-geist {
-  font-family: "Geist", sans-serif;
+  font-family: 'Geist', sans-serif;
 }

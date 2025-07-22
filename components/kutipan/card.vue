@@ -20,8 +20,8 @@
 
       <!-- Name and title overlay -->
       <div class="absolute bottom-4 left-4 text-white">
-        <h3 class="font-bold text-4xl leading-tight">{{ personName }}</h3>
-        <p class="text-2xl">{{ personTitle }}</p>
+        <h3 class="font-normal text-4xl leading-tight text-glancyr uppercase italic">{{ personName }}</h3>
+        <p class="text-2xl text-glancyr uppercase font-normal italic">{{ personTitle }}</p>
       </div>
     </div>
 

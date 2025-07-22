@@ -1,7 +1,7 @@
 <template>
     <div class="text-center">
-        <div class="text-6xl font-bold text-black mb-2 text-glancyr">{{ displayNumber }}</div>
-        <div class="text-lg text-gray-700 text-glancyr">Mix Tapes</div>
+        <div class="text-6xl font-light text-black mb-2 text-glancyr">{{ displayNumber }}</div>
+        <div class="text-lg text-gray-700">Mix Tapes</div>
     </div>
 </template>
 

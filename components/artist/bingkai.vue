@@ -16,7 +16,7 @@
         
         <!-- Artist name -->
         <div class="absolute bottom-4 left-4">
-            <h3 class="text-white text-2xl font-bold uppercase italic">
+            <h3 class="text-white text-2xl font-medium text-glancyr uppercase italic">
                 {{ name }}
             </h3>
         </div>

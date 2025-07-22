@@ -2,7 +2,7 @@
     <div class="bg-[#F7F7F7] pt-14">
         <!-- Header with title and filter buttons -->
         <div class="flex justify-between items-center mb-8 px-10">
-            <h1 class="text-4xl font-bold text-black">MOST POPULAR MIXTAPE</h1>
+            <h1 class="text-4xl text-glancyr uppercase font-normal text-black">MOST POPULAR MIXTAPE</h1>
             <div class="flex">
                 <button 
                     @click="activeFilter = 'topPurchased'"

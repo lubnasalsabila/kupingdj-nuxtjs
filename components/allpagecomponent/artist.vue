@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-gray-50 py-10 overflow-hidden">
     <!-- Header section -->
     <div class="container mx-auto px-10 mb-12 flex justify-between items-center">
-      <h1 class="text-4xl font-bold text-black">THE ARTIST</h1>
+      <h1 class="text-4xl text-glancyr uppercase font-normal text-black">THE ARTIST</h1>
       <p class="text-gray-700 max-w-md text-start">
         Meet the talented artists featured on Kuping DJ! Discover their latest mixtapes and albums, and immerse yourself in their creative journeys.
       </p>
@@ -47,7 +47,7 @@
         @click="showModal = true"
         class="flex items-center text-white font-semibold uppercase transition-colors"
       >
-        <span class="bg-[#A10501] px-6 py-4 text-base">EXPLORE ALL ARTIST</span>
+        <span class="bg-[#A10501] px-6 py-4 text-base text-glancyr uppercase font-normal">EXPLORE ALL ARTIST</span>
         <span class="bg-black px-4 py-4 flex items-center justify-center">
           <img src="/images/arrow-white.svg" alt="arrow" class="w-6 h-6" />
         </span>

@@ -3,7 +3,7 @@
         <!-- Title -->
          <div class="flex">
             <div class="basis-1/3">
-                <h1 class="text-3xl font-bold text-black mb-8 uppercase">the magic of<br>kuping dj</h1>
+                <h1 class="text-3xl text-glancyr uppercase font-normal text-black mb-8">the magic of<br>kuping dj</h1>
             </div>
             <!-- the magic Cards -->
             <div class="grid grid-cols-2 gap-2 min-w-max basis-2/3">

@@ -1,7 +1,7 @@
 <template>
   <div class="pt-14 px-10">
     <!-- Title -->
-    <h1 class="text-4xl font-bold text-black mb-8">NEW ARRIVAL ALBUM</h1>
+    <h1 class="text-4xl text-black mb-8 text-glancyr uppercase font-normal">NEW ARRIVAL ALBUM</h1>
 
     <!-- Horizontal Scroll Album Wrapper -->
     <div class="flex gap-4 overflow-x-auto pb-4">

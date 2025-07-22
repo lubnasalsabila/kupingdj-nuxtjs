@@ -1,7 +1,7 @@
 <template>
     <div class="text-center">
-        <div class="text-6xl font-bold text-black mb-2 text-glancyr">{{ displayNumber }}</div>
-        <div class="text-lg text-gray-700 text-glancyr">Best Artist</div>
+        <div class="text-6xl font-light text-black mb-2 text-glancyr">{{ displayNumber }}</div>
+        <div class="text-lg text-gray-700">Best Artist</div>
     </div>
 </template>
 

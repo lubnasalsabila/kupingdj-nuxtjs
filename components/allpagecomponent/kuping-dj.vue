@@ -11,7 +11,7 @@
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start pt-16">
                     <!-- Left Content -->
                     <div>
-                        <h1 class="text-4xl lg:text-6xl font-black text-white leading-tight mb-8">
+                        <h1 class="text-4xl lg:text-6xl font-black text-glancyr uppercase font-normal text-white leading-tight mb-8">
                             KUPING DJ PICKS<br>
                             MIXTAPE &<br>
                             ALBUM
@@ -19,7 +19,7 @@
                         
                         <!-- Scroll Indicator -->
                         <div class="flex items-center gap-2 text-white pt-8">
-                            <span class="text-sm uppercase tracking-wider">Scroll Down</span>
+                            <span class="text-sm text-glancyr uppercase font-normal tracking-wider">Scroll Down</span>
                             <img src="/public/images/mouse-white.svg" alt="Scroll" class="w-6 h-6">
                         </div>
                     </div>
@@ -49,7 +49,7 @@
             </section>
             
             <div class="container mx-auto pt-16">
-                <h2 class="text-3xl font-bold text-white mb-12 px-10">
+                <h2 class="text-3xl text-glancyr uppercase font-normal text-white mb-12 px-10">
                     KUPING DJ<br>
                     PICKS MIXTAPE
                 </h2>
@@ -111,7 +111,7 @@
             </div>
 
             <div class="container mx-auto py-12 px-10">
-                <h2 class="text-3xl font-bold text-white mb-12">
+                <h2 class="text-3xl text-glancyr uppercase font-normal text-white mb-12">
                     KUPING DJ<br>
                     PICKS ALBUM
                 </h2>

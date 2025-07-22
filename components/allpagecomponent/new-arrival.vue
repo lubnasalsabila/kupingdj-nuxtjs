@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-gray-50 py-16 overflow-hidden">
     <!-- Header section -->
     <div class="container px-10 mb-12 flex justify-between items-center">
-      <h1 class="text-4xl font-bold text-black">NEW ARRIVAL MIXTAPE</h1>
+      <h1 class="text-4xl text-glancyr uppercase font-normal text-black">NEW ARRIVAL MIXTAPE</h1>
       
       <!-- Navigation arrows in header -->
       <div class="flex gap-2">

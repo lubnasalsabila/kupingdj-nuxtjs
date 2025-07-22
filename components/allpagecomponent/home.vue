@@ -26,7 +26,7 @@
         
         <!-- Main hero text -->
         <div class="mb-14">
-          <h1 class="text-6xl font-bold text-black leading-tight">
+          <h1 class="text-6xl font-light text-black leading-tight text-glancyr">
             DISCOVER THE<br />
             ULTIMATE<br />
             DJ MARKETPLACE<br />
@@ -43,7 +43,7 @@
 
         <!-- Scroll down text -->
         <div class="flex items-center gap-3 mb-4">
-          <span class="text-black text-lg font-medium">SCROLL DOWN</span>
+          <span class="text-black text-lg font-light text-glancyr">SCROLL DOWN</span>
           <div class="w-6 h-6 flex items-center justify-center">
             <img src="/images/mouse.svg" alt="" class="w-6 h-6">
           </div>

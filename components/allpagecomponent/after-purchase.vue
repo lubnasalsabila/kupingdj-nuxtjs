@@ -3,7 +3,7 @@
         <!-- Title -->
          <div class="flex">
             <div class="basis-1/3">
-                <h1 class="text-3xl font-bold text-black mb-8">AFTER <br> PURCHASE,<br>YOU WILL GET</h1>
+                <h1 class="text-3xl text-glancyr uppercase font-normal text-black mb-8">AFTER <br> PURCHASE,<br>YOU WILL GET</h1>
             </div>
             <!-- Purchase Cards -->
             <div class="flex gap-2 min-w-max basis-2/3">

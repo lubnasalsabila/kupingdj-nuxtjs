@@ -13,7 +13,7 @@
     <!-- Content Layer -->
     <div class="relative z-10 flex">
       <div class="right pt-14">
-        <h1 class="uppercase text-5xl text-white">
+        <h1 class="uppercase text-5xl text-white text-glancyr uppercase font-normal">
           join DOMS STATION, <br />
           The new era Indonesian DJ Education Culture!
         </h1>
